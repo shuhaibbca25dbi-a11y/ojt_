@@ -15,7 +15,7 @@ st.set_page_config(
 # Title
 # -----------------------
 st.title("📊 NovaMart Sales Dashboard")
-st.write("Prepared by: Jazeel Ahmed | Version 4")
+st.write("Prepared by: shuhaib | Version 4")
 
 # -----------------------
 # Load Dataset
